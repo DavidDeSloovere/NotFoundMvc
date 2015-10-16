@@ -14,5 +14,6 @@ Thumbs.db
 msbuild.log
 
 Build/*
-/src/packages
-/src/SampleAppMvc5/logfiles/*
+src/packages
+src/SampleAppMvc5/logfiles/*
+src/SampleAppMvc3/logfiles/*
